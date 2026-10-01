@@ -113,5 +113,75 @@ Successfully completed and closed five simulated Help Desk incidents covering ac
 This lab provided hands-on practice with the ticket lifecycle and reinforced the importance of clear documentation, logical troubleshooting, user communication, and resolution verification in an IT support environment.
 
 ## Screenshots
+### Completed Ticket Overview
 
+The completed ticket queue demonstrates five resolved Tier 1 incidents across account access, networking, printer, software, and hardware support.
+
+![Completed Help Desk Tickets](screenshots/completed-tickets-overview.png)
+
+---
+
+### Ticket #3 — Account Access
+
+**Issue:** Windows account lockout after multiple unsuccessful sign-in attempts.
+
+**Resolution Evidence:**
+
+![Account Access Resolution](screenshots/ticket-03-account-access-resolution.png)
+
+---
+
+### Ticket #4 — Network Connectivity
+
+**Issue:** User was unable to connect a Windows laptop to the company Wi-Fi while other users remained connected.
+
+**Ticket Intake:**
+
+![Network Ticket Intake](screenshots/ticket-04-network-intake.png)
+
+**Resolution Evidence:**
+
+![Network Ticket Resolution](screenshots/ticket-04-network-resolution.png)
+
+---
+
+### Ticket #5 — Printer Support
+
+**Issue:** User was unable to print to the office printer due to a stuck print queue.
+
+**Ticket Intake:**
+
+![Printer Ticket Intake](screenshots/ticket-05-printer-intake.png)
+
+**Resolution Evidence:**
+
+![Printer Ticket Resolution](screenshots/ticket-05-printer-resolution.png)
+
+---
+
+### Ticket #6 — Software Support
+
+**Issue:** Microsoft Outlook would briefly launch and then close on the user's Windows computer.
+
+**Ticket Intake:**
+
+![Software Ticket Intake](screenshots/ticket-06-software-intake.png)
+
+**Resolution Evidence:**
+
+![Software Ticket Resolution](screenshots/ticket-06-software-resolution.png)
+
+---
+
+### Ticket #7 — Hardware Support
+
+**Issue:** A second monitor powered on but was not detected by the user's Windows computer.
+
+**Ticket Intake:**
+
+![Hardware Ticket Intake](screenshots/ticket-07-hardware-intake.png)
+
+**Resolution Evidence:**
+
+![Hardware Ticket Resolution](screenshots/ticket-07-hardware-resolution.png)
 Screenshots documenting the ticket workflow and resolutions will be included in the `screenshots` folder.
